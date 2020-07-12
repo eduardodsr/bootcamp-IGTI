@@ -4,34 +4,43 @@ Bootcamp Programador de Software Iniciante
 
 Programação com JavaScript
 
+####Tópicos
+                
+1. Aquecimento e Regras do Jogo
+2. Fundamentos
+3. Java
+4. Algoritomos e Estrutura de Dados com Java
+5. Python
+6. Desafio Final
+
+
+# Imagem:
+
+![](https://imgur.com/sUbFRTU)
+
+
 # Ferramentas:
 
-### Node.js
+Node.js
 
-Programação do Bootcamp utilizando Node.js
+Visual Studio Code
 
-### Node.js - Link para Download:
 
-`<link>` : <https://nodejs.org/en/>
+### Repository:
 
-### Visual Studio Code - Link para Download:
+<https://github.com/eduardodsr/bootcamp-IGTI>
 
-`<link>` : <https://code.visualstudio.com/>
-
-### Links
-
-[Links](https://github.com/eduardodsr/bootcamp-IGTI)
-
-`<link>` : <https://github.com/eduardodsr/bootcamp-IGTI>
 
 ### Informações sobre Bootcamp:
 
-`<link>` : <https://www.igti.com.br/custom/bootcamps-gratuitos/>
+<https://www.igti.com.br/custom/bootcamps-gratuitos/>
 
-### Proprietário
+
+### Proprietário:
 
 EDUARDO DA SILVA RODRIGUES
 
 eduardodsr@gmail.com
+
 
 ### End
