@@ -14,8 +14,6 @@ Programação com JavaScript
 6. Desafio Final
 
 
-# Imagem:
-
 ![](https://i.imgur.com/sUbFRTU.png)
 
 
