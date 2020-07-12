@@ -16,6 +16,10 @@ Programação com JavaScript
 
 # Imagem:
 
+https://imgur.com/sUbFRTU
+
+![](https://imgur.com/sUbFRTU)
+
 ![](https://imgur.com/sUbFRTU)
 
 
