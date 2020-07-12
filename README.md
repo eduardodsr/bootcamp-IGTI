@@ -2,9 +2,7 @@
 
 Bootcamp Programador de Software Iniciante
 
-Programação com JavaScript
-
-####Tópicos
+# Módulos:
                 
 1. Aquecimento e Regras do Jogo
 2. Fundamentos
@@ -13,9 +11,7 @@ Programação com JavaScript
 5. Python
 6. Desafio Final
 
-
 ![](https://i.imgur.com/sUbFRTU.png)
-
 
 # Ferramentas:
 
@@ -23,22 +19,17 @@ Node.js
 
 Visual Studio Code
 
-
 ### Repository:
 
 <https://github.com/eduardodsr/bootcamp-IGTI>
-
 
 ### Informações sobre Bootcamp:
 
 <https://www.igti.com.br/custom/bootcamps-gratuitos/>
 
-
 ### Proprietário:
 
 EDUARDO DA SILVA RODRIGUES
-
 eduardodsr@gmail.com
-
 
 ### End
