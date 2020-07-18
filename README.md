@@ -1,6 +1,7 @@
 # bootcamp IGTI
 
 Bootcamp Programador de Software Iniciante
+Duração: 2 meses - Carga Horária: 148 horas
 
 # Módulos:
                 
@@ -11,13 +12,13 @@ Bootcamp Programador de Software Iniciante
 5. Python
 6. Desafio Final
 
+# Bootcamp Programador de Software Iniciante
+
 ![](https://i.imgur.com/sUbFRTU.png)
 
-# Ferramentas:
+# Ferramentas e Técnicas:
 
-Node.js
-
-Visual Studio Code
+![](https://i.imgur.com/3hrde7o.png)
 
 ### Repository:
 
