@@ -1,6 +1,6 @@
 # bootcamp IGTI
 
-Bootcamp Programador de Software Iniciante
+Bootcamp Programador
 
 Duração: 2 meses - Carga Horária: 148 horas
 
