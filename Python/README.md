@@ -6,7 +6,7 @@
  </p>
     
 
- <p text-align: justify>
+ <p text-align= justify;  text-justify: inter-word;>
                                                                                                              
   O Bootcamp é um treinamento online, prático e intensivo.
 
@@ -19,8 +19,8 @@
   Segue abaixo o controle das minhas atividades durante o curso.
   
  </p>
-
  
+  
 
 ## Índice
 ### Capítulo 1
