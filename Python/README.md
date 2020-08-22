@@ -12,19 +12,19 @@
 
 ## Índice de repositórios
 ### Capítulo 1
-1. :white_check_mark: [aula 1.1 Apresentação pessoal]
-2. :white_check_mark: [aula 1.2 O que é Python]
-3. :white_check_mark: [aula 1.3 Filosofia do python e variáveis]
-4. :white_check_mark: [aula 2.1 Introdução ao Colabs]
-5. :white_check_mark: [aula 2.2 Mais sobre o Colabs, variáveis]
-6. :white_check_mark: [aula 3.1 Strings]
-7. :white_check_mark: [aula 3.2 String]
-8. :white_check_mark: [aula 3.3 Strings]
-9. :white_check_mark: [aula 3.4 Strings]
-10. :white_check_mark: [aula 04 Números]
+1. :white_check_mark: aula 1.1 Apresentação pessoal
+2. :white_check_mark: aula 1.2 O que é Python
+3. :white_check_mark: aula 1.3 Filosofia do python e variáveis
+4. :white_check_mark: aula 2.1 Introdução ao Colabs
+5. :white_check_mark: aula 2.2 Mais sobre o Colabs, variáveis
+6. :white_check_mark: aula 3.1 Strings
+7. :white_check_mark: aula 3.2 String
+8. :white_check_mark: aula 3.3 Strings
+9. :white_check_mark: aula 3.4 Strings
+10. :white_check_mark: aula 04 Números
 
 ### Capítulo 2
-11. :white_check_mark: 1.1 Expressões booleanas teoria
+11. :white_check_mark: aula 1.1 Expressões booleanas teoria
 12. :white_check_mark: aula 2.1 Expressões Booleana
 13. :white_check_mark: aula 2.2 if e elif
 14. :white_check_mark: aula 2.3 exemplos
@@ -32,15 +32,20 @@
 16. :white_check_mark: aula 3.2 Jogo de Dados
 17. :white_check_mark: aula 4 Cálculo do IMC
 
-18. : white_check:
-
-
-### Nível 03 - Início do front-end do GoBarber
-1. :white_check_mark: [Primeiro projeto com ReactJS](https://github.com/salescamila/gostack-12.primeiro_projeto_react)
-2. :white_check_mark: [\[DESAFIO\] Fundamentos ReactJS](https://github.com/salescamila/gostack-13.desafio_07_fundamentos_reactjs)
-3. :computer: [Iniciando front-end web](https://github.com/salescamila/gostack-14.GoBarber_web) 
-4. :white_large_square: Iniciando aplicativo mobile
-5. :white_large_square: [DESAFIO] Fundamentos React Native
+### Capítulo 3
+18. :white_check_mark:  aula 1.1 Estruturas de repetição Teoria
+19. :white_check_mark:  aula 1.1 Estruturas de repetição Teoria
+20. :white_check_mark:  aula 1.2 Estruturas de repetição Teoria parte 2
+21. :white_check_mark:  aula 1.2 Estruturas de repetição Teoria parte 2   
+22. :white_check_mark:  aula 2.1 Dicionários e listas
+23. :white_check_mark:  aula 2.2 Dicionários e listas
+24. :white_check_mark:  aula 2.3 Tuplas
+25. :white_check_mark:  aula 4.1 laços
+26. :white_check_mark:  aula 4.2 laços
+27. :white_check_mark:  aula 4.3 laços
+28. :white_check_mark:  aula 4.4 getuser getpass1
+29. :white_check_mark:  aula 5.1 sistema de restaurante
+30. :white_check_mark:  aula 5.2 melhorando o sistema
 
 ### Nível 04 - Arquitetura e testes no Node.js
 1. :white_large_square: Arquitetura e testes no Node.js
@@ -68,19 +73,7 @@
 
 
 
-18 CAP3 aula 1.1 Estruturas de repetição Teoria.
-19 CAP3 1.1 Estruturas de repetição Teoria.
-20 CAP3 aula 1.2 Estruturas de repetição Teoria parte 2.
-21 CAP3 aula 1.2 Estruturas de repetição Teoria parte 2.     
-22 CAP3 aula 2.1 Dicionários e listas.
-23 CAP3 aula 2.2 Dicionários e listas.
-24 CAP3 aula 2.3 Tuplas.
-25 CAP3 aula 4.1 laços.
-26 CAP3 aula 4.2 laços.
-27 CAP3 aula 4.3 laços.
-28 CAP3 aula 4.4 getuser getpass1.
-29 CAP3 aula 5.1 sistema de restaurante.
-30 CAP3 aula 5.2 melhorando o sistema.
+
 31 CAP4 aula 1 Funções Teoria.
 32 CAP4 aula 2 Funções.
 33 CAP4 aula 3.1 Melhorando nosso sistema de restaurante.
