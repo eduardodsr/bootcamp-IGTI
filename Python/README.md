@@ -19,7 +19,6 @@
  </p>
  
   
-
 ## Índice
 ### Capítulo 1
 1. :white_check_mark: [aula 1.1] Apresentação pessoal
