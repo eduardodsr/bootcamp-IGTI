@@ -36,7 +36,7 @@ console.log(carros[carros.length - 1])
 carros[carros.length] = "FIT";
 console.log(carros[carros.length - 1])
 
-// utilizando push, dicionar um novo elemento no array (lista de carros)
+// utilizando push, adicionar um novo elemento no array (lista de carros)
 carros.push("POLO");
 // Imprime todos os carros do Array:
 console.log(carros);
