@@ -11,7 +11,7 @@
   Segue abaixo o controle das minhas atividades durante o curso.
 
 ## Índice de repositórios
-### Capétulo 1 - Conceitos de Python
+### Capítulo 1
 1. :white_check_mark: [aula 1.1 Apresentação pessoal]
 2. :white_check_mark: [aula 1.2 O que é Python]
 3. :white_check_mark: [aula 1.3 Filosofia do python e variáveis]
@@ -23,14 +23,17 @@
 9. :white_check_mark: [aula 3.4 Strings]
 10. :white_check_mark: [aula 04 Números]
 
-09 CAP1 aula 3.4 Strings.
-10 CAP1 aula 04 Números.
+### Capítulo 2
+11. :white_check_mark: 1.1 Expressões booleanas teoria
+12. :white_check_mark: aula 2.1 Expressões Booleana
+13. :white_check_mark: aula 2.2 if e elif
+14. :white_check_mark: aula 2.3 exemplos
+15. :white_check_mark: aula 3.1 Jogo de Dados
+16. :white_check_mark: aula 3.2 Jogo de Dados
+17. :white_check_mark: aula 4 Cálculo do IMC
 
-### Nível 02 - Fundamentos de Node.js e início do back-end do GoBarber
-1. :white_check_mark: [Primeiro projeto com Node.JS](https://github.com/salescamila/gostack-08.primeiro_projeto_node)
-2. :white_check_mark: [\[DESAFIO\] Fundamentos Node.js](https://github.com/salescamila/gostack-09.desafio_05_fundamentos_node)
-3. :white_check_mark: [Iniciando back-end do app](https://github.com/salescamila/gostack-10.backend_GoBarber)
-4. :white_check_mark: [\[DESAFIO\] Database upload](https://github.com/salescamila/gostack-11.desafio_06_database_upload)
+18. : white_check:
+
 
 ### Nível 03 - Início do front-end do GoBarber
 1. :white_check_mark: [Primeiro projeto com ReactJS](https://github.com/salescamila/gostack-12.primeiro_projeto_react)
@@ -64,13 +67,7 @@
 
 
 
-11 CAP2 1.1 Expressões booleanas teoria.
-12 CAP2 aula 2.1 Expressões Booleanas.
-13 CAP2 aula 2.2 if e elif1.
-14 CAP2 aula 2.3 exemplos.
-15 CAP2 aula 3.1 Jogo de Dados.
-16 CAP2 aula 3.2 Jogo de Dados.
-17 CAP2 aula 4 Cálculo do IMC.
+
 18 CAP3 aula 1.1 Estruturas de repetição Teoria.
 19 CAP3 1.1 Estruturas de repetição Teoria.
 20 CAP3 aula 1.2 Estruturas de repetição Teoria parte 2.
