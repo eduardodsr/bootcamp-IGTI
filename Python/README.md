@@ -1,18 +1,35 @@
-# GoStack Bootcamp :rocket:
-  O GoStack é um treinamento online, prático e intensivo, no formato de bootcamp. No GoStack o aluno vai a fundo nas tecnologias **NodeJS, ReactJS e React Native**, e todo o ecossistema ao redor dessas ferramentas, do zero ao deploy. Incluindo testes automatizados, integração contínua, publicação nas stores, e todas as bibliotecas e frameworks importantes para quem deseja ficar pronto para os desafios do mundo real e se destacar no mercado de trabalho. 
+# Bootcamp : Python:
 
+  O Bootcamp é um treinamento online, prático e intensivo.
 
-Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento de desafios a cada tema novo, segue abaixo todos os repositórios criados durante o curso.
+  Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991. Atualmente possui um modelo de desenvolvimento comunitário, aberto e gerenciado pela organização sem fins lucrativos Python Software Foundation. Apesar de várias partes da linguagem possuírem padrões e especificações formais, a linguagem como um todo não é formalmente especificada. O padrão de facto é a implementação CPython.
+
+  A linguagem foi projetada com a filosofia de enfatizar a importância do esforço do programador sobre o esforço computacional. Prioriza a legibilidade do código sobre a velocidade ou expressividade. Combina uma sintaxe concisa e clara com os recursos poderosos de sua biblioteca padrão e por módulos e frameworks desenvolvidos por terceiros.
+
+  Python é uma linguagem de propósito geral de alto nível, multiparadigma, suporta o paradigma orientado a objetos, imperativo, funcional e procedural. Possui tipagem dinâmica e uma de suas principais características é permitir a fácil leitura do código e exigir poucas linhas de código se comparado ao mesmo programa em outras linguagens. Devido às suas características, ela é principalmente utilizada para processamento de textos, dados científicos e criação de CGIs para páginas dinâmicas para a web. 
+
+  Segue abaixo o controle das minhas atividades durante o curso.
 
 ## Índice de repositórios
-### Nível 01 - Conceitos de Node.JS, ReactJS, React Native e Typescript
-1. :white_check_mark: [Back-end com Node.js](https://github.com/salescamila/gostack-01.conceitos_node)
+### Capétulo 1 - Conceitos de Node.JS, ReactJS, React Native e Typescript
+1. :white_check_mark: [aula 1.1 Apresentação pessoal]
 2. :white_check_mark: [\[DESAFIO\] Conceitos do Node.js](https://github.com/salescamila/gostack-02.desafio_02_conceitos_node)
 3. :white_check_mark: [Front-end com ReactJS](https://github.com/salescamila/gostack-03.front-end_reactjs)
 4. :white_check_mark: [\[DESAFIO\] Conceitos de ReactJS](https://github.com/salescamila/gostack-04.desafio_03_conceitos_reactjs)
 5. :white_check_mark: [Mobile com React Native](https://github.com/salescamila/gostack-05.conceitos_react_native)
 6. :white_check_mark: [\[DESAFIO\] Conceitos do React Native](https://github.com/salescamila/gostack-06.desafio_04_conceitos_react_native)
 7. :white_check_mark: [TypeScript](https://github.com/salescamila/gostack-07.conceitos_typescript.git)
+
+01 CAP1 aula 1.1 Apresentação pessoal.
+02 CAP1 aula 1.2 O que é Python.
+03 CAP1 aula 1.3 Filosofia do python e variáveis.
+04 CAP1 aula 2.1 Introdução ao Colabs.
+05 CAP1 aula 2.2 Mais sobre o Colabs, variáveis.
+06 CAP1 aula 3.1 Strings.
+07 CAP1 aula 3.2 Strings.
+08 CAP1 aula 3.3 Strings.
+09 CAP1 aula 3.4 Strings.
+10 CAP1 aula 04 Números.
 
 ### Nível 02 - Fundamentos de Node.js e início do back-end do GoBarber
 1. :white_check_mark: [Primeiro projeto com Node.JS](https://github.com/salescamila/gostack-08.primeiro_projeto_node)
@@ -48,3 +65,32 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 
 ### Repositório contendo todos os desafios dos módulos do Bootcamp Gostack
 [Índice de desafios](https://github.com/Rocketseat/bootcamp-gostack-desafios)
+
+
+
+
+11 CAP2 1.1 Expressões booleanas teoria.
+12 CAP2 aula 2.1 Expressões Booleanas.
+13 CAP2 aula 2.2 if e elif1.
+14 CAP2 aula 2.3 exemplos.
+15 CAP2 aula 3.1 Jogo de Dados.
+16 CAP2 aula 3.2 Jogo de Dados.
+17 CAP2 aula 4 Cálculo do IMC.
+18 CAP3 aula 1.1 Estruturas de repetição Teoria.
+19 CAP3 1.1 Estruturas de repetição Teoria.
+20 CAP3 aula 1.2 Estruturas de repetição Teoria parte 2.
+21 CAP3 aula 1.2 Estruturas de repetição Teoria parte 2.     
+22 CAP3 aula 2.1 Dicionários e listas.
+23 CAP3 aula 2.2 Dicionários e listas.
+24 CAP3 aula 2.3 Tuplas.
+25 CAP3 aula 4.1 laços.
+26 CAP3 aula 4.2 laços.
+27 CAP3 aula 4.3 laços.
+28 CAP3 aula 4.4 getuser getpass1.
+29 CAP3 aula 5.1 sistema de restaurante.
+30 CAP3 aula 5.2 melhorando o sistema.
+31 CAP4 aula 1 Funções Teoria.
+32 CAP4 aula 2 Funções.
+33 CAP4 aula 3.1 Melhorando nosso sistema de restaurante.
+34 CAP4 aula 3.2 Melhorando nosso sistema ainda mais.
+35 CAP4 aula 3.3 Terminando o nosso sistema. 
