@@ -11,23 +11,23 @@
   Segue abaixo o controle das minhas atividades durante o curso.
 
 ## Índice de repositórios
-### Capétulo 1 - Conceitos de Node.JS, ReactJS, React Native e Typescript
+### Capétulo 1 - Conceitos de Python
 1. :white_check_mark: [aula 1.1 Apresentação pessoal]
-2. :white_check_mark: [\[DESAFIO\] Conceitos do Node.js](https://github.com/salescamila/gostack-02.desafio_02_conceitos_node)
-3. :white_check_mark: [Front-end com ReactJS](https://github.com/salescamila/gostack-03.front-end_reactjs)
-4. :white_check_mark: [\[DESAFIO\] Conceitos de ReactJS](https://github.com/salescamila/gostack-04.desafio_03_conceitos_reactjs)
-5. :white_check_mark: [Mobile com React Native](https://github.com/salescamila/gostack-05.conceitos_react_native)
-6. :white_check_mark: [\[DESAFIO\] Conceitos do React Native](https://github.com/salescamila/gostack-06.desafio_04_conceitos_react_native)
-7. :white_check_mark: [TypeScript](https://github.com/salescamila/gostack-07.conceitos_typescript.git)
+2. :white_check_mark: [aula 1.2 O que é Python]
+3. :white_check_mark: [aula 1.3 Filosofia do python e variáveis]
+4. :white_check_mark: [aula 2.1 Introdução ao Colabs]
+5. :white_check_mark: [aula 3.1 Strings]
+6. :white_check_mark: [aula 3.2 String]
+7. :white_check_mark: [aula 3.3 Strings]
 
 01 CAP1 aula 1.1 Apresentação pessoal.
-02 CAP1 aula 1.2 O que é Python.
-03 CAP1 aula 1.3 Filosofia do python e variáveis.
-04 CAP1 aula 2.1 Introdução ao Colabs.
-05 CAP1 aula 2.2 Mais sobre o Colabs, variáveis.
-06 CAP1 aula 3.1 Strings.
-07 CAP1 aula 3.2 Strings.
-08 CAP1 aula 3.3 Strings.
+02 CAP1 
+03 CAP1 .
+04 CAP1 .
+05 CAP1 .
+06 CAP1 .
+07 CAP1 s.
+08 CAP1 .
 09 CAP1 aula 3.4 Strings.
 10 CAP1 aula 04 Números.
 
