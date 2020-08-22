@@ -16,18 +16,13 @@
 2. :white_check_mark: [aula 1.2 O que é Python]
 3. :white_check_mark: [aula 1.3 Filosofia do python e variáveis]
 4. :white_check_mark: [aula 2.1 Introdução ao Colabs]
-5. :white_check_mark: [aula 3.1 Strings]
-6. :white_check_mark: [aula 3.2 String]
-7. :white_check_mark: [aula 3.3 Strings]
+5. :white_check_mark: [aula 2.2 Mais sobre o Colabs, variáveis]
+6. :white_check_mark: [aula 3.1 Strings]
+7. :white_check_mark: [aula 3.2 String]
+8. :white_check_mark: [aula 3.3 Strings]
+9. :white_check_mark: [aula 3.4 Strings]
+10. :white_check_mark: [aula 04 Números]
 
-01 CAP1 aula 1.1 Apresentação pessoal.
-02 CAP1 
-03 CAP1 .
-04 CAP1 .
-05 CAP1 .
-06 CAP1 .
-07 CAP1 s.
-08 CAP1 .
 09 CAP1 aula 3.4 Strings.
 10 CAP1 aula 04 Números.
 
