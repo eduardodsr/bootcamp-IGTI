@@ -10,7 +10,7 @@
 
   Segue abaixo o controle das minhas atividades durante o curso.
 
-## Índice de repositórios
+## Índice
 ### Capítulo 1
 1. :white_check_mark: aula 1.1 Apresentação pessoal
 2. :white_check_mark: aula 1.2 O que é Python
@@ -33,25 +33,26 @@
 17. :white_check_mark: aula 4 Cálculo do IMC
 
 ### Capítulo 3
-18. :white_check_mark:  aula 1.1 Estruturas de repetição Teoria
-19. :white_check_mark:  aula 1.1 Estruturas de repetição Teoria
-20. :white_check_mark:  aula 1.2 Estruturas de repetição Teoria parte 2
-21. :white_check_mark:  aula 1.2 Estruturas de repetição Teoria parte 2   
-22. :white_check_mark:  aula 2.1 Dicionários e listas
-23. :white_check_mark:  aula 2.2 Dicionários e listas
-24. :white_check_mark:  aula 2.3 Tuplas
-25. :white_check_mark:  aula 4.1 laços
-26. :white_check_mark:  aula 4.2 laços
-27. :white_check_mark:  aula 4.3 laços
-28. :white_check_mark:  aula 4.4 getuser getpass1
-29. :white_check_mark:  aula 5.1 sistema de restaurante
-30. :white_check_mark:  aula 5.2 melhorando o sistema
+18. :white_large_square:  aula 1.1 Estruturas de repetição Teoria
+19. :white_large_square:  aula 1.1 Estruturas de repetição Teoria
+20. :white_large_square:  aula 1.2 Estruturas de repetição Teoria parte 2
+21. :white_large_square:  aula 1.2 Estruturas de repetição Teoria parte 2   
+22. :white_large_square:  aula 2.1 Dicionários e listas
+23. :white_large_square:  aula 2.2 Dicionários e listas
+24. :white_large_square:  aula 2.3 Tuplas
+25. :white_large_square:  aula 4.1 laços
+26. :white_large_square:  aula 4.2 laços
+27. :white_large_square:  aula 4.3 laços
+28. :white_large_square:  aula 4.4 getuser getpass1
+29. :white_large_square:  aula 5.1 sistema de restaurante
+30. :white_large_square:  aula 5.2 melhorando o sistema
 
-### Nível 04 - Arquitetura e testes no Node.js
-1. :white_large_square: Arquitetura e testes no Node.js
-2. :white_large_square: Continuando back-end do app
-3. :white_large_square: Finalizando back-end do app
-4. :white_large_square: [DESAFIO] Database relations
+### Capítulo 4
+31. :white_large_square: aula 1 Funções Teoria.
+32. :white_large_square: aula 2 Funções.
+33. :white_large_square: aula 3.1 Melhorando nosso sistema de restaurante.
+34. :white_large_square: 3.2 Melhorando nosso sistema ainda mais.
+35. :white_large_square: aula 3.3 Terminando o nosso sistema. 
 
 ### Nível 05 - Finalizando front-ends e testes no ReactJS
 1. :white_large_square: Finalizando front-end web do app
@@ -59,23 +60,3 @@
 3. :white_large_square: Finalizando front-end mobile do app
 4. :white_large_square: [DESAFIO] GoRestaurant Mobile
 5. :white_large_square: Testes no ReactJS
-
-### Nível 06 - Deploy de aplicações
-1. :white_large_square: Deploy de aplicações Node.JS
-2. :white_large_square: Deploy de aplicações React.JS
-3. :white_large_square: Publicação de apps com React Native
-
-
-### Repositório contendo todos os desafios dos módulos do Bootcamp Gostack
-[Índice de desafios](https://github.com/Rocketseat/bootcamp-gostack-desafios)
-
-
-
-
-
-
-31 CAP4 aula 1 Funções Teoria.
-32 CAP4 aula 2 Funções.
-33 CAP4 aula 3.1 Melhorando nosso sistema de restaurante.
-34 CAP4 aula 3.2 Melhorando nosso sistema ainda mais.
-35 CAP4 aula 3.3 Terminando o nosso sistema. 
