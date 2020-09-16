@@ -16,13 +16,13 @@ Duração: 2 meses - Carga Horária: 148 horas
 # Bootcamp Programador de Software Iniciante
 
  <p align="center">
-  <img src=https://i.imgur.com/sUbFRTU.png?raw=true" alt="imagem" width="300px" />
+  <img src=https://i.imgur.com/sUbFRTU.png?raw=true" alt="imagem" width="600px" />
  </p>
 
 # Ferramentas e Técnicas:
 
  <p align="center">
-  <img src=https://i.imgur.com/3hrde7o.png?raw=true" alt="imagem" width="300px" />
+  <img src=https://i.imgur.com/3hrde7o.png?raw=true" alt="imagem" width="600px" />
  </p>
 
 ## Progresso |  Lista de Atividades:
