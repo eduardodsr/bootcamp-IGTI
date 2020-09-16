@@ -4,7 +4,7 @@ Bootcamp Programador de Software Iniciante
 
 Duração: 2 meses - Carga Horária: 148 horas
 
-# Módulos:
+## Módulos:
                 
 1. Aquecimento e Regras do Jogo
 2. [Fundamentos](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Fundamentos%20JS)
@@ -13,13 +13,13 @@ Duração: 2 meses - Carga Horária: 148 horas
 5. [Python](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Python)
 6. Desafio Final
 
-# Bootcamp Programador de Software Iniciante
+## Bootcamp Programador de Software Iniciante
 
  <p align="center">
   <img src=https://i.imgur.com/sUbFRTU.png?raw=true" alt="imagem" width="600px" />
  </p>
 
-# Ferramentas e Técnicas:
+## Ferramentas e Técnicas:
 
  <p align="center">
   <img src=https://i.imgur.com/3hrde7o.png?raw=true" alt="imagem" width="600px" />
