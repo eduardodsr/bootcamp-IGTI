@@ -1,4 +1,4 @@
-# # Fundamentos JS: :white_check_mark:
+# # Fundamentos JS: :green_book: :white_check_mark:
 
 - 1.1 - Introdução a programação.mp4
 - 1.2.1 - Introdução ao JavaScript (Parte 1).mp4
