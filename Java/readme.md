@@ -1,4 +1,4 @@
-### 03 - Java :blue_book: :white_check_mark:
+## 03 - Java :blue_book: :white_check_mark:
 
 - 01 - Linguagem tipada e não-tipada#.mp4
 - 02 - Introdução ao Java#.mp4
