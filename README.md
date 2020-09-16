@@ -25,9 +25,7 @@ Duração: 2 meses - Carga Horária: 148 horas
   <img src=https://i.imgur.com/3hrde7o.png?raw=true" alt="imagem" width="600px" />
  </p>
 
-## Progresso |  Lista de Atividades:
-
-## Módulos
+## Módulos | Meu progresso do Bootcamp:
 
 ### 01 - Aquecimento e Regras do Jogo :fire:
 
