@@ -103,7 +103,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 <https://www.igti.com.br/custom/bootcamps-gratuitos/>
 
-### Proprietário:
+### Contato:
 
 EDUARDO DA SILVA RODRIGUES
 eduardodsr@gmail.com
