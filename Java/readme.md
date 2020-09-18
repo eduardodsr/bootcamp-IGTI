@@ -1,9 +1,9 @@
 ## 03 - Java :blue_book: :white_check_mark:
 
 - 01 - Linguagem tipada e não-tipada.mp4  :white_check_mark:
-- 02 - Introdução ao Java#.mp4  :white_check_mark:
+- 02 - Introdução ao Java.mp4  :white_check_mark:
 - 03 - A JVM (Java Virtual Machine).mp4  :white_check_mark:
-- 04 - Ambientes de programação#.mp4  :white_check_mark:
+- 04 - Ambientes de programação.mp4  :white_check_mark:
 - 05 - Aula 1.5 - Instalando a IDE.mp4  :white_check_mark:
 - 06 - Aula 1.6 - Desenvolvimento, compilação e execução.mp4  :white_check_mark:
 - 07 - Aula 2.1 - O famigerado Olá mundo.mp4  :white_check_mark:
@@ -12,7 +12,7 @@
 - 10 - Aula 2.4 - Manipulando dados primitivos.mp4  :white_check_mark:
 - 11 - Aula 2.5 - O tipo String.mp4  :white_check_mark:
 - 12 - Aula 2.6 - Manipulando Strings.mp4  :white_check_mark:
-- 13 - Aula 2.7 -Print, Println e Printf.mp4  :white_check_mark:
+- 13 - Aula 2.7 - Print, Println e Printf.mp4  :white_check_mark:
 - 14 - Aula 2.8 - Operadores aritméticos.mp4
 - 15 - Aula 2.9 - Trabalhando com operadores aritméticos.mp4
 - 16 - Aula 2.10 - Operadores Lógicos.mp4
