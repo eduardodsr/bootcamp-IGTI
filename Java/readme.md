@@ -13,8 +13,8 @@
 - 11 - Aula 2.5 - O tipo String.mp4  :white_check_mark:
 - 12 - Aula 2.6 - Manipulando Strings.mp4  :white_check_mark:
 - 13 - Aula 2.7 - Print, Println e Printf.mp4  :white_check_mark:
-- 14 - Aula 2.8 - Operadores aritméticos.mp4
-- 15 - Aula 2.9 - Trabalhando com operadores aritméticos.mp4
+- 14 - Aula 2.8 - Operadores aritméticos.mp4  :white_check_mark:
+- 15 - Aula 2.9 - Trabalhando com operadores aritméticos.mp4  :white_check_mark:
 - 16 - Aula 2.10 - Operadores Lógicos.mp4
 - 17 - Aula 2.11 - Trabalhando com Operadores Lógicos.mp4
 - 18 - Aula 2.12 - Contadores e acumuladores.mp4
