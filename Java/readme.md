@@ -15,8 +15,8 @@
 - 13 - Aula 2.7 - Print, Println e Printf.mp4  :white_check_mark:
 - 14 - Aula 2.8 - Operadores aritméticos.mp4  :white_check_mark:
 - 15 - Aula 2.9 - Trabalhando com operadores aritméticos.mp4  :white_check_mark:
-- 16 - Aula 2.10 - Operadores Lógicos.mp4
-- 17 - Aula 2.11 - Trabalhando com Operadores Lógicos.mp4
+- 16 - Aula 2.10 - Operadores Lógicos.mp4  :white_check_mark:
+- 17 - Aula 2.11 - Trabalhando com Operadores Lógicos.mp4  :white_check_mark:
 - 18 - Aula 2.12 - Contadores e acumuladores.mp4
 - 19 - Aula 2.13 - Prática Integradora.mp4
 - 20 - Aula 3.1 - Leitura de dados do teclado.mp4
