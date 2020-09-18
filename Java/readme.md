@@ -17,9 +17,9 @@
 - 15 - Aula 2.9 - Trabalhando com operadores aritméticos.mp4  :white_check_mark:
 - 16 - Aula 2.10 - Operadores Lógicos.mp4  :white_check_mark:
 - 17 - Aula 2.11 - Trabalhando com Operadores Lógicos.mp4  :white_check_mark:
-- 18 - Aula 2.12 - Contadores e acumuladores.mp4
-- 19 - Aula 2.13 - Prática Integradora.mp4
-- 20 - Aula 3.1 - Leitura de dados do teclado.mp4
+- 18 - Aula 2.12 - Contadores e acumuladores.mp4  :white_check_mark:
+- 19 - Aula 2.13 - Prática Integradora.mp4  :white_check_mark:
+- 20 - Aula 3.1 - Leitura de dados do teclado.mp4  :white_check_mark:
 - 21 - Aula 3.2 - A instrução If.mp4
 - 22 - Aula 3.3 - Aula Prática- If e else.mp4
 - 23 - Aula 3.4 - Ifs aninhados.mp4
