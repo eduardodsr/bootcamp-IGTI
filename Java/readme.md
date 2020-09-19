@@ -25,12 +25,12 @@
 - 23 - Aula 3.4 - Ifs aninhados.mp4  :white_check_mark:
 - 24 - Aula 3.5 - If-else-if.mp4  :white_check_mark:
 - 25 - Aula 3.6 - Aula prática Ifs.mp4  :white_check_mark:
-- 26 - Aula 3.7 - Switch.mp4
-- 27 - Aula 3.8 - O laço for.mp4
-- 28 - Aula 3.9 - O laço while.mp4
-- 29 - Aula 3.10 - O laço do-while.mp4
-- 30 - Aula 3.11 - Arrays.mp4
-- 31 - Aula 3.12 - Comandos break e continue.mp4
-- 32 - Aula 3.13 - Leitura de arquivos.mp4
-- 33 - Aula 3.14 - Gravação de arquivos.mp4
-- 34 - Prática integrada (Java).mp4
+- 26 - Aula 3.7 - Switch.mp4  :white_check_mark:
+- 27 - Aula 3.8 - O laço for.mp4  :white_check_mark:
+- 28 - Aula 3.9 - O laço while.mp4  :white_check_mark:
+- 29 - Aula 3.10 - O laço do-while.mp4  :white_check_mark:
+- 30 - Aula 3.11 - Arrays.mp4  :white_check_mark:
+- 31 - Aula 3.12 - Comandos break e continue.mp4  :white_check_mark:
+- 32 - Aula 3.13 - Leitura de arquivos.mp4  :white_check_mark:
+- 33 - Aula 3.14 - Gravação de arquivos.mp4  :white_check_mark:
+- 34 - Prática integrada (Java).mp4  :white_check_mark:
