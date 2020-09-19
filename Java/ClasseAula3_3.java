@@ -14,9 +14,9 @@ public class ClasseAula3_3 {
 		Scanner entradaDados = new Scanner(System.in); // leitura da entradaDados (Scanner)
 		
 				
-		System.out.println("======Início do Programa======");
+		System.out.println("======InÃ­cio do Programa======");
 		System.out.print("Digite o nome do aluno: "); 			
-		String nomeAluno = entradaDados.nextLine();	//String nomeAluno = entradaNomeAluno.nextLine(); 
+		String nomeAluno = entradaDados.nextLine();
 		
 		System.out.println("Digite a Nota1: "); // entrada de dados = Nota1
 		n1 = entradaDados.nextDouble();
@@ -30,7 +30,7 @@ public class ClasseAula3_3 {
 		total = n1 + n2 + n3;
 		media = total / 3;
 		
-		System.out.println("Digite a frequência: "); // entrada de dados = frequencia
+		System.out.println("Digite a frequÃªncia: "); // entrada de dados = frequencia
 		frequencia = entradaDados.nextDouble();			
 		
 		if (media >= 70 && frequencia >= 0.75)	// Se Media for maior que 70 && (AND) frequencia maior ou igual a 75%, retorna True (Aprovado) ou False(Reprovado)
@@ -38,7 +38,7 @@ public class ClasseAula3_3 {
 		else
 			situacao = "Reprovado";
 		
-		System.out.printf("O aluno %s obteve a média final %.2f. A frequencia %.2f %%. Situação Final: %s !", nomeAluno, media, frequencia, situacao );
+		System.out.printf("O aluno %s obteve a mÃ©dia final %.2f. A frequencia %.2f %%. SituaÃ§Ã£o Final: %s !", nomeAluno, media, frequencia, situacao );
 		System.out.println("\n======Fim do Programa======");
 	}
 
