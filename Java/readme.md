@@ -1,9 +1,9 @@
 ## 03 - Java :blue_book: :white_check_mark:
 
-- 01 - Linguagem tipada e não-tipada.mp4  :white_check_mark:
-- 02 - Introdução ao Java.mp4  :white_check_mark:
-- 03 - A JVM (Java Virtual Machine).mp4  :white_check_mark:
-- 04 - Ambientes de programação.mp4  :white_check_mark:
+- 01 - Aula 1.1 - Linguagem tipada e não-tipada.mp4  :white_check_mark:
+- 02 - Aula 1.2 - Introdução ao Java.mp4  :white_check_mark:
+- 03 - Aula 1.3 - A JVM (Java Virtual Machine).mp4  :white_check_mark:
+- 04 - Aula 1.4 - Ambientes de programação.mp4  :white_check_mark:
 - 05 - Aula 1.5 - Instalando a IDE.mp4  :white_check_mark:
 - 06 - Aula 1.6 - Desenvolvimento, compilação e execução.mp4  :white_check_mark:
 - 07 - Aula 2.1 - O famigerado Olá mundo.mp4  :white_check_mark:
@@ -33,4 +33,4 @@
 - 31 - Aula 3.12 - Comandos break e continue.mp4  :white_check_mark:
 - 32 - Aula 3.13 - Leitura de arquivos.mp4  :white_check_mark:
 - 33 - Aula 3.14 - Gravação de arquivos.mp4  :white_check_mark:
-- 34 - Prática integrada (Java).mp4  :white_check_mark:
+- 34 - Aula 3.15 - Prática integrada (Java).mp4  :white_check_mark:
