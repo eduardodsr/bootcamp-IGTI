@@ -20,11 +20,11 @@
 - 18 - Aula 2.12 - Contadores e acumuladores.mp4  :white_check_mark:
 - 19 - Aula 2.13 - Prática Integradora.mp4  :white_check_mark:
 - 20 - Aula 3.1 - Leitura de dados do teclado.mp4  :white_check_mark:
-- 21 - Aula 3.2 - A instrução If.mp4
-- 22 - Aula 3.3 - Aula Prática- If e else.mp4
-- 23 - Aula 3.4 - Ifs aninhados.mp4
-- 24 - Aula 3.5 - If-else-if.mp4
-- 25 - Aula 3.6 - Aula prática Ifs.mp4
+- 21 - Aula 3.2 - A instrução If.mp4  :white_check_mark:
+- 22 - Aula 3.3 - Aula Prática- If e else.mp4  :white_check_mark:
+- 23 - Aula 3.4 - Ifs aninhados.mp4  :white_check_mark:
+- 24 - Aula 3.5 - If-else-if.mp4  :white_check_mark:
+- 25 - Aula 3.6 - Aula prática Ifs.mp4  :white_check_mark:
 - 26 - Aula 3.7 - Switch.mp4
 - 27 - Aula 3.8 - O laço for.mp4
 - 28 - Aula 3.9 - O laço while.mp4
