@@ -59,16 +59,16 @@ Duração: 2 meses - Carga Horária: 148 horas
 * Aplicações do Java; [✔️]
 * Instalação e configuração de ferramentas e ambiente de execução de código Java; [✔️]
 * Java - tipos, valores, variáveis e comentários; [✔️]
-* Java - estruturas de decisão;
-* Java - estruturas de repetição;
-* Java - métodos;
-* Java - classes e objetos.
+* Java - estruturas de decisão; [✔️]
+* Java - estruturas de repetição; [✔️]
+* Java - métodos; [✔️]
+* Java - classes e objetos. [✔️]
 
 **Duração: 32 horas**
 
 ### 04 - Algoritmos e Estrutura de Dados com Java :orange_book:
 
-* Introdução as estruturas de dados;
+* Introdução as estruturas de dados; [✔️]
 * Java - Pilha;
 * Java - Fila;
 * Java - ArrayList;
@@ -81,7 +81,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 ### 05 - Python :closed_book:
 
 * Introdução ao python; [✔️]
-* Tipos de dados em python;
+* Tipos de dados em python; [✔️]
 * Bibliotecas e operações básicas em python;
 * Introdução a análise de dados;
 * Pandas e numpy para análise de dados;
