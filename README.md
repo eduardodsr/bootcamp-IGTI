@@ -7,7 +7,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 ## Módulos:
                 
 1. Aquecimento e Regras do Jogo
-2. [Fundamentos](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Fundamentos%20JS)
+2. [Fundamentos JS](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Fundamentos%20JS)
 3. [Java](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Java)
 4. Algoritomos e Estrutura de Dados com Java 
 5. [Python](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Python)
