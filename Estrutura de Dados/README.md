@@ -25,7 +25,6 @@
 - 1.13.2 - Matriz Exemplo prático - Parte 2.mp4  :x:
 - 1.13.3 - Matriz Exemplo prático - Parte 3.mp4  :x:
 - 1.13.4 - Matriz Exemplo prático - Parte 4.mp4  :x:
-
 - 2.2.1. Recapitulação - Prática - Parte 1.mp4  :x:
 - 2.2.2. Recapitulação - Prática - Parte 2.mp4  :x:
 - 2.3 - Herança Teoria.mp4  :x:
@@ -40,7 +39,6 @@
 - 2.8.3 - Exemplo prático - Parte 3.mp4  :x:
 - 2.8.4 - Exemplo prático - Parte 4.mp4  :x:
 - 2.8.5 - Exemplo prático - Parte 5.mp4  :x:
-
 - 3.1 - Algoritmos de ordenação.mp4  :x:
 - 3.2 - Algoritmo da bolha - Teoria.mp4  :x:
 - 3.3 - Algoritmo da bolha - Prática.mp4  :x:
@@ -50,5 +48,4 @@
 - 3.7 - Busca linear - Prática.mp4  :x:
 - 3.8 - Busca binária - Teoria.mp4  :x:
 - 3.9 - Busca binária Prática.mp4  :x:
-
 - Trabalho Prático e Desafio  :x:
