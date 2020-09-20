@@ -28,7 +28,7 @@
 - 2.13.2 - JavaScript - Exemplo prático adivinhação (Parte 2).mp4  :white_check_mark:
 - 2.13.3 - JavaScript - Exemplo prático adivinhação (Parte 3).mp4  :white_check_mark:
 
-# # Fundamentos JS - Manipulação de HTML, CSS e JS: :yellow_book:
+# # Fundamentos JS - Manipulação de HTML, CSS e JS: ::orange_book:
 
 - Aula 3.1.1 - Introdução ao HTML (Parte 1).mp4
 - Aula 3.1.2 - Introdução ao HTML (Parte 2).mp4
