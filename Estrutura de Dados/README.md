@@ -1,1 +1,81 @@
+# # Fundamentos JS: :green_book: :white_check_mark:
 
+- 1.1 - Introdução a programação.mp4  :white_check_mark:
+- 1.2.1 - Introdução ao JavaScript (Parte 1).mp4  :white_check_mark:
+- 1.2.2 - Introdução ao JavaScript (Parte 2).mp4  :white_check_mark:
+- 1.3 - Instalação do Node.js .mp4  :white_check_mark:
+- 1.4 - Instalação do Visual Studio Code.mp4  :white_check_mark:
+- 2.1 - JavaScript - Variáveis.mp4  :white_check_mark:
+- 2.2 - JavaScript - Tipos de variáveis.mp4  :white_check_mark:
+- 2.3.1 -  JavaScript - Operadores (Parte 1).mp4  :white_check_mark:
+- 2.3.2 -  JavaScript - Operadores (Parte 2).mp4  :white_check_mark:
+- 2.4 -  JavaScript - Arrays.mp4  :white_check_mark:
+- 2.5.1 -  JavaScript - Estruturas de decisão (Parte 1).mp4  :white_check_mark:
+- 2.5.2 -  JavaScript - Estruturas de decisão (Parte 2).mp4  :white_check_mark:
+- 2.6.1 -  JavaScript - Exemplo prático calculadora (Parte 1).mp4  :white_check_mark:
+- 2.6.2 -  JavaScript - Exemplo prático calculadora (Parte 2).mp4  :white_check_mark:
+- 2.7.1 -  JavaScript - Estruturas de repetição (Parte 1).mp4  :white_check_mark:
+- 2.7.2 -  JavaScript - Estruturas de repetição (Parte 2).mp4  :white_check_mark:
+- 2.7.3 -  JavaScript - Estruturas de repetição (Parte 3).mp4  :white_check_mark:
+- 2.8 -  JavaScript - Exemplo prático - Problema 1 do Project Euler.mp4  :white_check_mark:
+- 2.9 -  JavaScript - Funções.mp4  :white_check_mark:
+- 2.10 -  JavaScript - Objetos JSON.mp4  :white_check_mark:
+- 2.11.1 -  JavaScript - Manipulação de arrays (Parte 1).mp4  :white_check_mark:
+- 2.11.2 -  JavaScript - Manipulação de arrays (Parte 2).mp4  :white_check_mark:
+- 2.12.1 - JavaScript - Leitura e escrita de arquivos (Parte 1).mp4  :white_check_mark:
+- 2.12.2 - JavaScript - Leitura e escrita de arquivos (Parte 2).mp4  :white_check_mark:
+- 2.13.1 - JavaScript - Exemplo prático adivinhação (Parte 1).mp4  :white_check_mark:
+- 2.13.2 - JavaScript - Exemplo prático adivinhação (Parte 2).mp4  :white_check_mark:
+- 2.13.3 - JavaScript - Exemplo prático adivinhação (Parte 3).mp4  :white_check_mark:
+
+
+### 3 - Algoritmos e Estruturas de Dados com Java
+
+
+- 1.1 - Introdução a estruturas de dados.mp4  :x:
+- 1 - Fila Exemplo prático - Parte 1.mp4  :x:
+- 1.10.2 - Fila Exemplo prático - Parte 2.mp4  :x:
+- 1.11 - Matriz - Teoria.mp4  :x:
+- 1.12 - Matriz - Prática.mp4  :x:
+- 1.13.1 - Matriz Exemplo prático - Parte 1.mp4  :x:
+- 1.13.2 - Matriz Exemplo prático - Parte 2.mp4  :x:
+- 1.13.3 - Matriz Exemplo prático - Parte 3.mp4  :x:
+- 1.13.4 - Matriz Exemplo prático - Parte 4.mp4  :x:
+- 1.2 - Lista - Teoria.mp4  :x:
+- 1.3.1 - Lista - Prática - Parte 1.mp4  :x:
+- 1.3.2 - Lista - Prática - Parte 2.mp4  :x:
+- 1.3.3 - Lista - Prática - Parte 3.mp4  :x:
+- 1.4.1 - Lista - Exemplo prático - Parte 1.mp4  :x:
+- 1.4.2 - Lista - Exemplo prático - Parte 2.mp4  :x:
+- 1.4.3 - Lista Exemplo prático - Parte 3.mp4  :x:
+- 1.5 - Pilha - Teoria.mp4  :x:
+- 1.6 - Pilha - Prática.mp4  :x:
+- 1.7.1 - Pilha Exemplo prático - Parte 1.mp4  :x:
+- 1.7.2 - Pilha Exemplo prático - Parte 2.mp4  :x:
+- 1.7.3 - Pilha Exemplo prático - Parte 3.mp4  :x:
+- 1.8 - Fila - Teoria.mp4  :x:
+- 1.9 - Fila - Prática.mp4  :x:
+- 2.2.1. Recapitulação - Prática - Parte 1.mp4  :x:
+- 2.2.2. Recapitulação - Prática - Parte 2.mp4  :x:
+- 2.3 - Herança Teoria.mp4  :x:
+- 2.4.1 - Herança Prática - Parte 1.mp4  :x:
+- 2.4.2 - Herança Prática - Parte 2.mp4  :x:
+- 2.4.3 - Herança Prática - Parte 3.mp4  :x:
+- 2.5 - Interface - Teoria.mp4  :x:
+- 2.6 - Interface - Prática.mp4  :x:
+- 2.7 - Polimorfismo.mp4  :x:
+- 2.8.1 - Exemplo prático - Parte 1.mp4  :x:
+- 2.8.2 - Exemplo prático - Parte 2.mp4  :x:
+- 2.8.3 - Exemplo prático - Parte 3.mp4  :x:
+- 2.8.4 - Exemplo prático - Parte 4.mp4  :x:
+- 2.8.5 - Exemplo prático - Parte 5.mp4  :x:
+- 3.1 - Algoritmos de ordenação.mp4  :x:
+- 3.2 - Algoritmo da bolha - Teoria.mp4  :x:
+- 3.3 - Algoritmo da bolha - Prática.mp4  :x:
+- 3.4 - Ordenação por seleção - Teoria.mp4  :x:
+- 3.5 - Ordenação por seleção - Prática.mp4  :x:
+- 3.6 - Busca linear - Teoria.mp4  :x:
+- 3.7 - Busca linear - Prática.mp4  :x:
+- 3.8 - Busca binária - Teoria.mp4  :x:
+- 3.9 - Busca binária Prática.mp4  :x:
+- Trabalho Prático e Desafio  :x:
