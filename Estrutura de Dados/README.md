@@ -1,10 +1,6 @@
-# # Fundamentos JS: :green_book: :white_check_mark:
-
 - 1.1 - Test white_check_mark  :white_check_mark:
 
-
 ## 3 - Algoritmos e Estruturas de Dados com Java
-
 
 - 1.1 - Introdução a estruturas de dados.mp4  :x:
 - 1 - Fila Exemplo prático - Parte 1.mp4  :x:
