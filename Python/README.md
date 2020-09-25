@@ -49,8 +49,8 @@
 
 ### Capítulo 3 (Laços de repetição - Dicionários e listas - Tuplas - Laços)
 18. :white_large_square:  [aula 1.1] Estruturas de repetição Teoria
-19. :white_large_square:  [aula 1.1] Estruturas de repetição Teoria
-20. :white_large_square:  [aula 1.2] Estruturas de repetição Teoria parte 2
+19. :white_large_square:  [aula 1.2] Estruturas de repetição Teoria
+20. :white_large_square:  [aula 1.1] Estruturas de repetição Teoria parte 2
 21. :white_large_square:  [aula 1.2] Estruturas de repetição Teoria parte 2   
 22. :white_large_square:  [aula 2.1] Dicionários e listas
 23. :white_large_square:  [aula 2.2] Dicionários e listas
