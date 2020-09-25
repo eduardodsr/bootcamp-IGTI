@@ -26,7 +26,7 @@
  
   
 ## Índice
-### Capítulo 1
+### Capítulo 1 (Introdução - Strings e Numeros)
 1. :white_check_mark: [aula 1.1] Apresentação pessoal
 2. :white_check_mark: [aula 1.2] O que é Python
 3. :white_check_mark: [aula 1.3] Filosofia do python e variáveis
@@ -38,7 +38,7 @@
 9. :white_check_mark: [aula 3.4] Strings
 10. :white_check_mark: [aula 04] Números
 
-### Capítulo 2
+### Capítulo 2 (Expressões Booleanas - Jogos de Dados e IMC)
 11. :white_check_mark: [aula 1.1] Expressões booleanas teoria
 12. :white_check_mark: [aula 2.1] Expressões Booleana
 13. :white_check_mark: [aula 2.2] if e elif
@@ -47,7 +47,7 @@
 16. :white_check_mark: [aula 3.2] Jogo de Dados
 17. :white_check_mark: [aula 4] Cálculo do IMC
 
-### Capítulo 3
+### Capítulo 3 (Laços de repetição - Dicionários e listas - Tuplas - Laços)
 18. :white_large_square:  [aula 1.1] Estruturas de repetição Teoria
 19. :white_large_square:  [aula 1.1] Estruturas de repetição Teoria
 20. :white_large_square:  [aula 1.2] Estruturas de repetição Teoria parte 2
@@ -62,10 +62,11 @@
 29. :white_large_square:  [aula 5.1] sistema de restaurante
 30. :white_large_square:  [aula 5.2] melhorando o sistema
 
-### Capítulo 4
+### Capítulo 4 (Funções)
 31. :white_large_square: [aula 1] Funções Teoria.
 32. :white_large_square: [aula 2] Funções.
 33. :white_large_square: [aula 3.1] Melhorando nosso sistema de restaurante.
 34. :white_large_square: [aula 3.2] Melhorando nosso sistema ainda mais.
 35. :white_large_square: [aula 3.3] Terminando o nosso sistema. 
 
+### END ###
