@@ -82,10 +82,10 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 * Introdução ao python; [✔️]
 * Tipos de dados em python; [✔️]
-* Bibliotecas e operações básicas em python;
-* Introdução a análise de dados;
-* Pandas e numpy para análise de dados;
-* Introdução ao scikit-learn.
+* Bibliotecas e operações básicas em python; [✔️]
+* Introdução a análise de dados; [✔️]
+* Pandas e numpy para análise de dados; [✔️]
+* Introdução ao scikit-learn. [✔️]
 
 **Duração: 32 horas**
 
