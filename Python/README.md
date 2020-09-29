@@ -24,9 +24,8 @@
    &nbsp;&nbsp;&nbsp; Segue abaixo o controle das minhas atividades durante o curso.
 
  
-  
 ## Índice
-### Capítulo 1 (Introdução - Strings e Numeros)
+### Capítulo 1 (  :white_check_mark: | :white_large_square:  )
 1. :white_check_mark: [aula 1.1] Apresentação pessoal
 2. :white_check_mark: [aula 1.2] O que é Python
 3. :white_check_mark: [aula 1.3] Filosofia do python e variáveis
@@ -36,9 +35,9 @@
 7. :white_check_mark: [aula 3.2] String
 8. :white_check_mark: [aula 3.3] Strings
 9. :white_check_mark: [aula 3.4] Strings
-10. :white_check_mark: [aula 04] Números
+10. :white_check_mark: [aula 4] Números
 
-### Capítulo 2 (Expressões Booleanas - Jogos de Dados e IMC)
+### Capítulo 2
 11. :white_check_mark: [aula 1.1] Expressões booleanas teoria
 12. :white_check_mark: [aula 2.1] Expressões Booleana
 13. :white_check_mark: [aula 2.2] if e elif
@@ -47,26 +46,24 @@
 16. :white_check_mark: [aula 3.2] Jogo de Dados
 17. :white_check_mark: [aula 4] Cálculo do IMC
 
-### Capítulo 3 (Laços de repetição - Dicionários e listas - Tuplas - Laços)
-18. :white_large_square:  [aula 1.1] Estruturas de repetição Teoria
-19. :white_large_square:  [aula 1.2] Estruturas de repetição Teoria
-20. :white_large_square:  [aula 1.1] Estruturas de repetição Teoria parte 2
-21. :white_large_square:  [aula 1.2] Estruturas de repetição Teoria parte 2   
-22. :white_large_square:  [aula 2.1] Dicionários e listas
-23. :white_large_square:  [aula 2.2] Dicionários e listas
-24. :white_large_square:  [aula 2.3] Tuplas
-25. :white_large_square:  [aula 4.1] laços
-26. :white_large_square:  [aula 4.2] laços
-27. :white_large_square:  [aula 4.3] laços
-28. :white_large_square:  [aula 4.4] getuser getpass1
-29. :white_large_square:  [aula 5.1] sistema de restaurante
-30. :white_large_square:  [aula 5.2] melhorando o sistema
+### Capítulo 3
+18. :white_check_mark:  [aula 1.1] Estruturas de repetição Teoria
+19. :white_check_mark:  [aula 1.2] Estruturas de repetição Teoria parte 2   
+20. :white_check_mark:  [aula 2.1] Dicionários e listas
+21. :white_check_mark:  [aula 2.2] Dicionários e listas
+22. :white_check_mark:  [aula 2.3] Tuplas
+23. :white_check_mark:  [aula 4.1] laços
+24. :white_check_mark:  [aula 4.2] laços
+25. :white_check_mark:  [aula 4.3] laços
+26. :white_check_mark:  [aula 4.4] getuser getpass1
+27. :white_check_mark:  [aula 5.1] sistema de restaurante
+28. :white_check_mark:  [aula 5.2] melhorando o sistema
 
-### Capítulo 4 (Funções)
-31. :white_large_square: [aula 1] Funções Teoria.
-32. :white_large_square: [aula 2] Funções.
-33. :white_large_square: [aula 3.1] Melhorando nosso sistema de restaurante.
-34. :white_large_square: [aula 3.2] Melhorando nosso sistema ainda mais.
-35. :white_large_square: [aula 3.3] Terminando o nosso sistema. 
+### Capítulo 4
+29. :white_check_mark: [aula 1] Funções Teoria.
+30. :white_check_mark: [aula 2] Funções.
+31. :white_check_mark: [aula 3.1] Melhorando nosso sistema de restaurante.
+32. :white_check_mark: [aula 3.2] Melhorando nosso sistema ainda mais.
+33. :white_check_mark: [aula 3.3] Terminando o nosso sistema. 
 
 ### END ###
