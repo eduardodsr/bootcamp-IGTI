@@ -1,4 +1,4 @@
-# # Fundamentos JS: :green_book: :white_check_mark:
+# # Fundamentos JS: :green_book: :white_check_mark: 
 
 - 1.1 - Introdução a programação.mp4  :white_check_mark:
 - 1.2.1 - Introdução ao JavaScript (Parte 1).mp4  :white_check_mark:
@@ -30,19 +30,19 @@
 
 # # Fundamentos JS - Manipulação de HTML, CSS e JS: ::orange_book:
 
-- Aula 3.1.1 - Introdução ao HTML (Parte 1).mp4
-- Aula 3.1.2 - Introdução ao HTML (Parte 2).mp4
-- Aula 3.1.1 - Introdução ao HTML (Parte 1).mp4
-- Aula 3.1.2 - Introdução ao HTML (Parte 2).mp4
-- Aula 3.1.3 - Introdução ao HTML (Parte 3).mp4
-- Aula 3.2.1 - Introdução ao CSS (Parte 1).mp4
-- Aula 3.2.2 - Introdução ao CSS (Parte 2).mp4
-- Aula 3.3 - JavaScript em uma página web.mp4
-- Aula 3.4.1 - Manipulação de HTML com JavaScript (Parte 1).mp4
-- Aula 3.4.2 - Manipulação de HTML com JavaScript (Parte 2).mp4
-- Aula 3.5 - Manipulação de CSS com JavaScript.mp4
-- Aula 3.6 - Eventos com JavaScript.mp4
-- Aula 3.7 - Exemplo prático- cálculo do IMC.mp4
-- Aula 3.7.1 - Exemplo prático- cálculo do IMC (Parte 1).mp4
-- Aula 3.7.2 - Exemplo prático- cálculo do IMC (Parte 2).mp4
-- Aula 3.7.3 - Exemplo prático- cálculo do IMC (Parte 3).mp4
+- Aula 3.1.1 - Introdução ao HTML (Parte 1).mp4  :white_check_mark:
+- Aula 3.1.2 - Introdução ao HTML (Parte 2).mp4  :white_check_mark:
+- Aula 3.1.1 - Introdução ao HTML (Parte 1).mp4  :white_check_mark:
+- Aula 3.1.2 - Introdução ao HTML (Parte 2).mp4  :white_check_mark:
+- Aula 3.1.3 - Introdução ao HTML (Parte 3).mp4  :white_check_mark:
+- Aula 3.2.1 - Introdução ao CSS (Parte 1).mp4  :white_check_mark:
+- Aula 3.2.2 - Introdução ao CSS (Parte 2).mp4  :white_check_mark:
+- Aula 3.3 - JavaScript em uma página web.mp4  :white_check_mark:
+- Aula 3.4.1 - Manipulação de HTML com JavaScript (Parte 1).mp4  :white_check_mark:
+- Aula 3.4.2 - Manipulação de HTML com JavaScript (Parte 2).mp4  :white_check_mark:
+- Aula 3.5 - Manipulação de CSS com JavaScript.mp4  :white_check_mark:
+- Aula 3.6 - Eventos com JavaScript.mp4  :white_check_mark:
+- Aula 3.7 - Exemplo prático- cálculo do IMC.mp4  :white_check_mark:
+- Aula 3.7.1 - Exemplo prático- cálculo do IMC (Parte 1).mp4  :white_check_mark:
+- Aula 3.7.2 - Exemplo prático- cálculo do IMC (Parte 2).mp4  :white_check_mark:
+- Aula 3.7.3 - Exemplo prático- cálculo do IMC (Parte 3).mp4  :white_check_mark:
