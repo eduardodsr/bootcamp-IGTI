@@ -11,12 +11,12 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 ## Módulos:
                 
-1. Aquecimento e Regras do Jogo
-2. [Fundamentos JS](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Fundamentos%20JS)
-3. [Java](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Java)
-4. [Algoritomos e Estrutura de Dados com Java](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Estrutura%20de%20Dados)
-5. [Python](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Python)
-6. Desafio Final
+0. Aquecimento e Regras do Jogo
+1. [Fundamentos JS](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Fundamentos%20JS)
+2. [Java](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Java)
+3. [Algoritomos e Estrutura de Dados com Java](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Estrutura%20de%20Dados)
+4. [Python](https://github.com/eduardodsr/bootcamp-IGTI/tree/master/Python)
+5. Desafio Final
 
 ## Bootcamp Programador de Software Iniciante
 
@@ -94,7 +94,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 **Duração: 32 horas**
 
-### 06 - Desafio final :checkered_flag:
+### 05 - Desafio final :checkered_flag:
 
 * Conclusão da aplicação final.
 
