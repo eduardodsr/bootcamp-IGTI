@@ -5,7 +5,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/bootcamp-IGTI)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/bootcamp-IGTI)
 
-:cloud: Bootcamp Programador de Software Iniciante :cloud
+## :cloud: Bootcamp Programador de Software Iniciante :cloud:
 
 Duração: 2 meses - Carga Horária: 148 horas
 
@@ -32,13 +32,13 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 ## Módulos | Meu progresso do Bootcamp:
 
-### 01 - Aquecimento e Regras do Jogo :fire:
+### 00 - Aquecimento e Regras do Jogo :fire:
 
 * Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas. [✔️]
 
 **Duração: 4 horas**
 
-### 02 - Fundamentos :green_book:
+### Módulo 01 - Fundamentos :green_book:
 
 * Introdução a lógica de programação; [✔️]
 * Como um programa de computador funciona; [✔️]
@@ -57,7 +57,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 **Duração: 32 horas**
 
-### 03 - Java :blue_book:
+### Mpodulo 02 - Java :blue_book:
 
 * Introdução ao Java; [✔️]
 * Java x JavaScript; [✔️]
@@ -71,7 +71,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 **Duração: 32 horas**
 
-### 04 - Algoritmos e Estrutura de Dados com Java :orange_book:
+### Módulo 03 - Algoritmos e Estrutura de Dados com Java :orange_book:
 
 * Introdução as estruturas de dados; [✔️]
 * Java - Pilha;
@@ -83,7 +83,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 **Duração: 32 horas**
 
-### 05 - Python :closed_book:
+### Módulo 04 - Python :closed_book:
 
 * Introdução ao python; [✔️]
 * Tipos de dados em python; [✔️]
@@ -102,11 +102,11 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 ### Repository:
 
-<https://github.com/eduardodsr/bootcamp-IGTI>
+``` link: ``` <https://github.com/eduardodsr/bootcamp-IGTI>
 
 ### Informações sobre Bootcamp:
 
-<https://www.igti.com.br/custom/bootcamps-gratuitos/>
+``` link: ``` <https://www.igti.com.br/custom/bootcamps-gratuitos/>
 
 ### Contato:
 
